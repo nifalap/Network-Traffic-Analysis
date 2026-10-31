@@ -75,4 +75,4 @@ hxxp://5.252.153[.]241/1517096937
 
 ![Fake site and downloads](screenshots/01-fake-site-downloads.png)
 ![Check-ins](screenshots/02-checkins.png)
-![Conversations](screenshots/03-conversations.png)
+![Connections to the other C2 servers](screenshots/03-other-c2.png)
