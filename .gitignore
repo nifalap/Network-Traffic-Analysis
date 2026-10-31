@@ -1,0 +1,5 @@
+# Never commit captures, archives or anything exported from them (may contain malware)
+*.pcap
+*.pcapng
+*.zip
+exported/
