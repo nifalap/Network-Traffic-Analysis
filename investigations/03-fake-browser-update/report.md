@@ -78,5 +78,6 @@ hxxp://194.180.191[.]64/fakeurl.htm   check-in URL
 ## Screenshots
 
 ![Alerts](screenshots/01-alerts.png)
+*Alerts provided with the exercise*
 ![Infection chain](screenshots/02-infection-chain.png)
 ![C2](screenshots/03-c2.png)
